@@ -1,0 +1,49 @@
+# 藤井フミヤ – NANA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+ねぇ NANA
+おまえが死ぬほど好きなのに
+ねぇ NANA
+もう迷う仲じゃないはずさ
+言いのがれがうまい女だね
+ねぇ NANA 薬指 今も残る跡
+ねぇ NANA 内緒の分だけ無口だよ
+なぜか誘いにくい女だね
+思い出へ流れてゆく涙は
+(I love you, baby)
+俺のこの手じゃ拭けない
+知らない頃のお前にJealousy
+(I need you, baby)
+感じるほどに その傷跡が
+この胸に映る NANA
+You don't cry
+未来に感じ濡れてくれ
+cry 過去 脱ぎすてて
+やろうぜ NANA
+Come on NANA
+ねぇ NANA
+まるでバージンのように怯え
+ねぇ NANA
+後ろめたいことはないはず
+世界一 しらける女だね
+無理に震える体を抱いても
+(I love you, baby)
+辛くなるのは俺だよ
+失恋よりも切ないさMy heart
+(I need you, baby)
+寂しいのは きっときっと
+俺の方だよ NANA
+Want you please
+未来に生きて 燃えてくれ
+please 過去を引きさけ
+You don't cry
+未来に感じ濡れてくれ
+cry 過去 脱ぎすてて
+やろうぜ NANA
+Come on NANA
+Come on NANA
+Come on NANA
+ねぇ NANA
+```
