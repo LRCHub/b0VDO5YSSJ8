@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "NANA",
+  "base_artist": "藤井フミヤ",
+  "createdAt": "2026-01-02T17:14:15.974479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nana (feat. Action Bronson)",
+      "artist": "Chance the Rapper feat. Action Bronson",
+      "has_synced": true,
+      "path": "select/01_Nana_(feat._Action_Bronson)_Chance_the_Rapper_feat._Action_Bronson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NaNa (ft. Action Bronson)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/02_NaNa_(ft._Action_Bronson)_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nana",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/03_Nana_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nanà Supergirl",
+      "artist": "Cristina D'Avena feat. Giusy Ferreri",
+      "has_synced": true,
+      "path": "select/04_Nanà_Supergirl_Cristina_D'Avena_feat._Giusy_Ferreri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nanà Supergirl (feat. Cristina D'Avena)",
+      "artist": "Giusy Ferreri",
+      "has_synced": true,
+      "path": "select/05_Nanà_Supergirl_(feat._Cristina_D'Avena)_Giusy_Ferreri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nana",
+      "artist": "Kikagaku Moyo",
+      "has_synced": true,
+      "path": "select/06_Nana_Kikagaku_Moyo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nana",
+      "artist": "Warcry",
+      "has_synced": true,
+      "path": "select/07_Nana_Warcry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nana",
+      "artist": "WarCry",
+      "has_synced": true,
+      "path": "select/08_Nana_WarCry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nana Pancha",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/09_Nana_Pancha_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nana pancha (Remastered)",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/10_Nana_pancha_(Remastered)_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nana Song",
+      "artist": "Sherrie Sherrie feat. The Ware & Nina",
+      "has_synced": true,
+      "path": "select/11_Nana_Song_Sherrie_Sherrie_feat._The_Ware_&_Nina.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nana Song",
+      "artist": "Sherrie Sherrie/The Ware/Nina",
+      "has_synced": true,
+      "path": "select/12_Nana_Song_Sherrie_Sherrie_The_Ware_Nina.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grip & Break down !! (feat. Nana Takahashi)",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "has_synced": true,
+      "path": "select/13_Grip_&_Break_down_!!_(feat._Nana_Takahashi)_SOUND_HOLIC_feat._Nana_Takahashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NANA",
+      "artist": "藤井 フミヤ",
+      "has_synced": false,
+      "path": "select/pl_01_NANA_藤井_フミヤ.txt"
+    }
+  ]
+}
